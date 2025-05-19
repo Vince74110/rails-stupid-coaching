@@ -13,3 +13,6 @@
  *= require_tree .
  *= require_self
  */
+.bg-warning-subtle {
+  background-color: #fffdd0; 
+}
